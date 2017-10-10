@@ -2,9 +2,11 @@
 <html>
 	<head>
 		<title> About Me</title>
+
 	</head>
 	<body>
 		<h1>About me</h1>
+		<img src="me_at_my_best.jpg" >
 		<p>My name is Matt. I like to make things as much fun as possible</p>
 		<div>
 			<h2>My strengths</h2>
