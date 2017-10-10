@@ -9,14 +9,14 @@
 
 		<img src="image/goofy-me.jpg" alt="goofy picture of me" height="800" width="800"/>
 		<h1>About me</h1>
-		<p>My name is Matt. I like to make things as much fun as possible. When things start to get bland I like to make
-		it exciting</p>
+		<p>My name is Matt. I like nascar and fried chicken. When things start to get bland I like to make
+		to spice it up</p>
 
 		<div>
 			<h2>My strengths</h2>
 
 		<ul class="center-list">
-			<li>heating up frozen food</li>
+			<li>starting a car</li>
 			<li>starting fires</li>
 			<li>communicating with large predatory cats</li>
 		</ul>
