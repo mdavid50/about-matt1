@@ -6,7 +6,7 @@
 	</head>
 	<body>
 		<h1>About me</h1>
-		<img src="me_at_my_best.jpg" >
+		<img src="image/me_at_my_best.jpg" alt="goofy picture of me" height="800" width="800">
 		<p>My name is Matt. I like to make things as much fun as possible</p>
 		<div>
 			<h2>My strengths</h2>
