@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<title> About Me</title>
-		<link rel="stylesheet" href="./styles/styles.css"
+		<link rel="stylesheet" href="./styles/styles.css">
 	</head>
 	<body>
 
@@ -12,14 +12,14 @@
 		it exciting</p>
 		<div>
 			<h2>My strengths</h2>
-		<ul>
+		<ul class="center-list">
 			<li>heating up frozen food</li>
-			<li>shredding newspaper</li>
+			<li>starting fires</li>
 			<li>communicating with large predatory cats</li>
 		</ul>
 				<h2>My Weaknesses</h2>
 			<p>
-				<ul>
+				<ul class="center-list">
 					<li>cleaning the kitchen</li>
 					<li>money management</li>
 					<li>making directories</li>

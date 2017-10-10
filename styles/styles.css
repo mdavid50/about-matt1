@@ -5,4 +5,7 @@ body {
 	background-color: black;
 	color: orange;
 }
+.center-list{
+	list-style-position: inside;
+}
 
